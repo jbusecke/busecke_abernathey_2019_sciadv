@@ -1,0 +1,16 @@
+name: busecke_abernathey_2018
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - astropy=3.0.4=py35_0
+  - cartopy=0.16.0=py35h81b52dc_2
+  - dask=0.19.1=py_0
+  - dask-core=0.19.1=py_0
+  - distributed=1.23.1=py35_0
+  - jupyter=1.0.0=py_1
+  - matplotlib=2.2.3
+  - python=3.5.5=h5001a0f_2
+  - numpy=1.15.0
+  - scipy=1.1.0
+  - xarray=0.10.9
