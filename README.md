@@ -1,4 +1,7 @@
 # busecke_abernathey_2018
+
+[![DOI](https://zenodo.org/badge/155008528.svg)](https://zenodo.org/badge/latestdoi/155008528)
+
 This repository contains the analysis code used in Busecke and Abernathey 2018, Science Advances.
 
 The data used in this paper can be found [here](10.6084/m9.figshare.4928693)
