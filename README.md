@@ -4,7 +4,7 @@
 
 This repository contains the analysis code used in Busecke and Abernathey 2018, Science Advances.
 
-The data used in this paper can be found [here](10.6084/m9.figshare.4928693)
+The data used in this paper can be found [here](https://figshare.com/articles/Global_Ocean_Surface_Diffusivities_derived_from_Altimetry/4928693)
 
 We strive to make our research open and reproducible. This repo enables the user to recalculate the SMLT estimate of surface diffusivity and change parameters. All data that is needed is provided.
 
