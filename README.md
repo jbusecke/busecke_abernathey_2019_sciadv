@@ -1,8 +1,8 @@
-# busecke_abernathey_2018
+# busecke_abernathey_2019
 
 [![DOI](https://zenodo.org/badge/155008528.svg)](https://zenodo.org/badge/latestdoi/155008528)
 
-This repository contains the analysis code used in Busecke and Abernathey 2018, Science Advances.
+This repository contains the analysis code used in [Busecke and Abernathey 2019, Science Advances](http://advances.sciencemag.org/content/5/1/eaav5014).
 
 The data used in this paper can be found [here](https://figshare.com/articles/Global_Ocean_Surface_Diffusivities_derived_from_Altimetry/4928693)
 
