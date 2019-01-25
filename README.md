@@ -20,7 +20,7 @@ The provided `environment.yml` file provides the necessary modules with appropri
 If issues arise refer to `requirements_full.txt` for a detailed output of the conda environment used at the time of publication.
 (We provide this additional information due to a bug that prevented `conda env export` to export pip installed modules and an installation of xarray from source (10.9))
 
-3. Download all files from the [figshare repository](10.6084/m9.figshare.4928693) into a folder named `data` in the repository root.
+3. Download all files from the [figshare repository](https://figshare.com/articles/Global_Ocean_Surface_Diffusivities_derived_from_Altimetry/4928693) into a folder named `data` in the repository root.
 
 4. Execute and modify the notebook.
 If the K_mix estimates should be regenerated (`recompute = True`), it might be necessary to delete/rename the files `K_mix_corrected.nc` and `K_mix_uncorrected.nc`
