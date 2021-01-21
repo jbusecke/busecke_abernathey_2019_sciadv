@@ -1,6 +1,7 @@
 # busecke_abernathey_2019
 
 [![DOI](https://zenodo.org/badge/155008528.svg)](https://zenodo.org/badge/latestdoi/155008528)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jbusecke/busecke_abernathey_2019_sciadv/master)
 
 This repository contains the analysis code used in [Busecke and Abernathey 2019, Science Advances](http://advances.sciencemag.org/content/5/1/eaav5014).
 
